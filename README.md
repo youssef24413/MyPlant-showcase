@@ -183,11 +183,6 @@ Secure sign up, login, and account management with full profile customization.
 
 ---
 
-## 👨‍🏫 Special Thanks
-
-A heartfelt thank you to **Dr. Tamer Abdel Latif** for the invaluable guidance and support throughout this project. 🙏
-
----
 
 ## 👩‍💻 Team Members
 
