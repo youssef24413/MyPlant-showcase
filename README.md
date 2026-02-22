@@ -86,7 +86,7 @@ Secure sign up, login, and account management with full profile customization.
 
 | Splash Screen | Login | Sign Up |
 |:---:|:---:|:---:|
-| <img src="images/splash_screen.png" width="220"/> | <img src="images/login.png" width="220"/> | <img src="images/signup.png" width="220"/> |
+| <img src="images/splash_screen.PNG" width="220"/> | <img src="images/login.PNG" width="220"/> | <img src="images/signup.PNG" width="220"/> |
 | **Welcome Screen** | **Login** | **Create Account** |
 
 </div>
