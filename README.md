@@ -9,6 +9,8 @@ A Flutter-based mobile application that combines **Deep Learning**, **Flask**, a
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://figma.com)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+[![CNN](https://img.shields.io/badge/CNN-4B8BBE?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
 </div>
 
@@ -84,7 +86,7 @@ Secure sign up, login, and account management with full profile customization.
 
 | Splash Screen | Login | Sign Up |
 |:---:|:---:|:---:|
-| <img src="images/splash_screen.jpg" width="220"/> | <img src="images/login.jpg" width="220"/> | <img src="images/signup.jpg" width="220"/> |
+| <img src="images/splash_screen.png" width="220"/> | <img src="images/login.png" width="220"/> | <img src="images/signup.png" width="220"/> |
 | **Welcome Screen** | **Login** | **Create Account** |
 
 </div>
@@ -165,7 +167,7 @@ Secure sign up, login, and account management with full profile customization.
 | 📱 Mobile App | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
 | 🔥 Backend | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 | 🌐 AI Bridge | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) |
-| 🤖 AI Model | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| 🤖 AI Model | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-4B8BBE?logo=python&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F61?logo=tensorflow&logoColor=white) |
 | 🎨 UI/UX Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
 
 </div>
