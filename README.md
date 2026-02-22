@@ -192,6 +192,7 @@ A big shoutout to the amazing team behind MyPlant Care! 🌟
 
 | | Member |
 |:---:|:---:|
+| 🌿 | **Youssef Hesham** |
 | 🌿 | **Hana Nabil** |
 | 🌿 | **Adham Hamam** |
 | 🌿 | **Tasneem Mostafa** |
